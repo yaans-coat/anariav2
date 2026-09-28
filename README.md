@@ -31,7 +31,8 @@ node server.js
 
 - [lyra](https://github.com/gayq/lyra) - inspo for most of the site and also formerly waves which was inspo for blackwaves
 - [selenite](https://selenite.cc) - most of the og ui designs (changed)
-- [wasm.rip](https://wasm.rip) - game source
+- [truffled owner](https://truffled.lol) - Helped me find out how to do the whole proxy thing and how to get the games
+- [crllect](https://crllect.dev) - Helped me find out more about his proxy making tool and also gave me a idea which made the rest of anaria come to life
 
 ## lisence
 this project ins protected by the [GNU Affero General Public License 3.0](LICENSE)
