@@ -35,7 +35,7 @@ node server.js
 - [crllect](https://crllect.dev) - Helped me find out more about his proxy making tool and also gave me a idea which made the rest of anaria come to life
 
 ## lisence
-this project ins protected by the [GNU Affero General Public License 3.0](LICENSE)
+this project is protected by the [GNU Affero General Public License 3.0](LICENSE)
 
 ---
 
