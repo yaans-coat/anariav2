@@ -17,12 +17,24 @@ a sick web proxy
 
 ## self-hosting
 
-```bash
+```shell
 #cloning
-git clone https://github.com/yaans-coat/anaria
+git clone https://github.com/yaans-coat/anariav2
 
 #setup
-cd anaria
+cd anariav2
+npm install
+node server.js
+```
+
+or,
+
+```bash
+#cloning
+git clone https://github.com/yaans-coat/anariav2
+
+#setup
+cd anariav2
 npm install
 node server.js
 ```
