@@ -17,17 +17,7 @@ a sick web proxy
 
 ## self-hosting
 
-```shell
-#cloning
-git clone https://github.com/yaans-coat/anariav2
-
-#setup
-cd anariav2
-npm install
-node server.js
-```
-
-or,
+If you're planning to host a website, deploy with services like Render, Railway, etc.
 
 ```bash
 #cloning
@@ -43,8 +33,8 @@ node server.js
 
 - [lyra](https://github.com/gayq/lyra) - inspo for most of the site and also formerly waves which was inspo for blackwaves
 - [selenite](https://selenite.cc) - most of the og ui designs (changed)
-- [truffled owner](https://truffled.lol) - Helped me find out how to do the whole proxy thing and how to get the games
-- [crllect](https://crllect.dev) - Helped me find out more about his proxy making tool and also gave me a idea which made the rest of anaria come to life
+- [truffled owner](https://truffled.lol) - helped me find out how to do the whole proxy thing and how to get the games
+- [crllect](https://crllect.dev) - helped me find out more about his proxy making tool and also gave me a idea which made the rest of anaria come to life
 
 ## lisence
 this project is protected by the [GNU Affero General Public License 3.0](LICENSE)
