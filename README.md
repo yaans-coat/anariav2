@@ -1,3 +1,6 @@
+>[!WARNING]
+>This is a old version of anaria, to see newer version please check [yaans-coat github](https://github.com/yaans-coat)
+
 # anaria!
 a sick web proxy
 
